@@ -1,0 +1,18 @@
+form{
+  max-width: 312px;
+  border:2px solid rgba(28, 4, 98, 0.267);
+  border-radius:3px;
+  padding: 2px;
+  
+}
+.block2{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 2px;
+}
+
+.block{
+  width: 150px;
+  height: 45px;
+  margin-right: 2px;
+}

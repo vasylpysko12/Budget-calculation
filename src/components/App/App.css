@@ -1,0 +1,23 @@
+.app{
+  background-color:rgb(207, 231, 242);
+  padding: 10px;
+
+}
+ul{
+  display:flex;
+ 
+  
+}
+li{
+  list-style: none;
+  box-sizing: border-box;
+  padding-right: 20px;
+}
+a{
+  text-decoration: none;
+  font-size: 20px;
+  font-weight: 550;
+}
+a:hover{
+  color: rgb(9, 9, 54);
+}
