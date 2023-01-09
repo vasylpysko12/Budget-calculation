@@ -12,6 +12,7 @@ const reducer = (state, action) =>{
         currency: action.currency
       }
     }
+    
     case 'reset':{
       return defaultContext
     }

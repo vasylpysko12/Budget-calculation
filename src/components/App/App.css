@@ -1,5 +1,5 @@
 .app{
-  background-color:rgb(207, 231, 242);
+  
   padding: 10px;
 
 }
@@ -20,4 +20,22 @@ a{
 }
 a:hover{
   color: rgb(9, 9, 54);
+}
+
+.themeSwitch{
+  margin: 4px 0 0 40px;
+}
+#light {
+  background-color: rgb(217, 243, 241);
+}
+#dark {
+  background-color: #3d3d3d;
+  
+}
+
+#light .lab{
+  color:black;
+}
+#dark .lab{
+  color:white;
 }
